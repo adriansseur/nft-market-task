@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nft-market-task/static/css/main.1d006169.css",
+    "main.js": "/nft-market-task/static/js/main.5ffd2718.js",
+    "static/js/787.49d50a50.chunk.js": "/nft-market-task/static/js/787.49d50a50.chunk.js",
+    "static/media/hero_img.png": "/nft-market-task/static/media/hero_img.3a8271c6c05071fea9e1.png",
+    "static/media/bottom_1.png": "/nft-market-task/static/media/bottom_1.6d0474ff7dae3c22220a.png",
+    "static/media/bottom_2.png": "/nft-market-task/static/media/bottom_2.35c3e1280d5eb8b80e02.png",
+    "static/media/bottom_3.png": "/nft-market-task/static/media/bottom_3.c62fde18fb319ba94b59.png",
+    "static/media/bottom_4.png": "/nft-market-task/static/media/bottom_4.1dd62808b915032b56a1.png",
+    "static/media/sun.svg": "/nft-market-task/static/media/sun.30edfbc5cdb538e3475ece6e3fc2b80f.svg",
+    "static/media/moon.svg": "/nft-market-task/static/media/moon.31781cb05b1b4620aab6f3e2f7f5a1e4.svg",
+    "index.html": "/nft-market-task/index.html",
+    "static/media/search-svgrepo-com.svg": "/nft-market-task/static/media/search-svgrepo-com.313c9274952a9139bc3cdb41c386393d.svg",
+    "main.1d006169.css.map": "/nft-market-task/static/css/main.1d006169.css.map",
+    "main.5ffd2718.js.map": "/nft-market-task/static/js/main.5ffd2718.js.map",
+    "787.49d50a50.chunk.js.map": "/nft-market-task/static/js/787.49d50a50.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d006169.css",
+    "static/js/main.5ffd2718.js"
+  ]
+}
